@@ -1,0 +1,6 @@
+*.csv
+__pycache__/
+*.pyc
+.env
+.DS_Store.streamlit/
+check_csv.py
